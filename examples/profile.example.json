@@ -1,0 +1,37 @@
+{
+  "provenance": {
+    "schema": "xjb-browser-profile-v1",
+    "engineVersion": "Firefox-152.0.3",
+    "origin": "https://servicewechat.com",
+    "targetScriptSha256": "6961b74430b6150bd5e3af8c21fb1f872690cdfe306234fff3ed9fbcc5e06ba2",
+    "captureRunId": "run-example-0000-0000-0000-000000000000",
+    "capturedAt": "2026-09-09T00:00:00+08:00",
+    "sidecarSha256": "ee9346719e2096101ca5682d557232bc0b195acc26883237a3efc88e9b4e1fda",
+    "sections": {
+      "location": "captured",
+      "navigator": "captured",
+      "screen": "captured",
+      "viewport": "captured",
+      "features": "disabled",
+      "windowSurface": "disabled"
+    }
+  },
+  "meta": {
+    "id": "example-wmpf-search",
+    "capturedAt": "2026-09-09T00:00:00+08:00",
+    "browser": "WindowsWechat/WMPF 0x63090a13",
+    "targetScriptSha256": "6961b74430b6150bd5e3af8c21fb1f872690cdfe306234fff3ed9fbcc5e06ba2"
+  },
+  "location": { "href": "https://servicewechat.com/wxac2907********/212/page-frame.html" },
+  "navigator": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 MicroMessenger/7.0.20.1781(0x6700143B) NetType/WIFI MiniProgramEnv/Windows WindowsWechat/WMPF WindowsWechat(0x63090a13) UnifiedPCWindowsWechat(0xf2541d0c) XWEB/25510",
+    "platform": "Win32",
+    "languages": ["zh-CN", "zh"],
+    "webdriver": false
+  },
+  "screen": { "width": 414, "height": 780, "availWidth": 414, "availHeight": 780, "colorDepth": 24, "pixelDepth": 24 },
+  "viewport": { "innerWidth": 414, "innerHeight": 736, "outerWidth": 414, "outerHeight": 780, "devicePixelRatio": 1.5 },
+  "windowSurface": { "preset": "minimal" },
+  "features": { "canvas": false, "webgl": false, "audio": false },
+  "cryptoRandom": [13, 42, 7, 91, 28, 63, 5, 88, 17, 34, 79, 2, 55, 101, 8, 144]
+}

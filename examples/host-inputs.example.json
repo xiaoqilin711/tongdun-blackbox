@@ -1,0 +1,21 @@
+{
+  "schema": "host-inputs-v1",
+  "provenance": "Explicit Windows compatibility inputs, not a complete host snapshot from a live trace.",
+  "systemInfo": {
+    "brand": "microsoft", "model": "microsoft", "pixelRatio": 1.5,
+    "screenWidth": 414, "screenHeight": 780, "windowWidth": 414, "windowHeight": 736,
+    "statusBarHeight": 0, "language": "zh_CN", "version": "4.0.6", "system": "Windows 10 x64",
+    "platform": "windows", "fontSizeSetting": 16, "SDKVersion": "3.9.10",
+    "benchmarkLevel": -1, "locationAuthorized": false, "wifiEnabled": true,
+    "albumAuthorized": true, "cameraAuthorized": true, "microphoneAuthorized": true,
+    "notificationAuthorized": true, "bluetoothEnabled": false
+  },
+  "deviceInfo": {"brand": "microsoft", "model": "microsoft", "system": "Windows 10 x64", "platform": "windows", "benchmarkLevel": -1},
+  "launchOptions": {"scene": 1256, "path": "pages/main/index.html", "query": {}, "referrerInfo": {"appId": ""}},
+  "accountInfo": {"miniProgram": {"appId": "wxac2907********", "envVersion": "release", "version": "2.0.66", "versionCode": 212}},
+  "networkType": {"errMsg": "getNetworkType:ok", "networkType": "wifi", "hasSystemProxy": false},
+  "startWifi": {"errMsg": "startWifi:fail:not supported"},
+  "stopWifi": {"errMsg": "stopWifi:ok"},
+  "connectedWifi": {"errMsg": "getConnectedWifi:fail:not supported"},
+  "brightness": {"errMsg": "getScreenBrightness:ok", "value": 0.5}
+}

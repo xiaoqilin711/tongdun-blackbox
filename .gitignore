@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# SDK material extracted at runtime (Tongdun source is NOT redistributed)
+material/
+
+# Local artifacts / credentials
+out/
+*.local.json
