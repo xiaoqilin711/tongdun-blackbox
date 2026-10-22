@@ -2,6 +2,8 @@
 
 [English](README.md) | [中文](README.zh-CN.md)
 
+[![CI](https://github.com/xiaoqilin711/tongdun-blackbox/actions/workflows/ci.yml/badge.svg)](https://github.com/xiaoqilin711/tongdun-blackbox/actions/workflows/ci.yml)
+
 Pure-protocol recreation of the Tongdun (FraudMetrix / 同盾) device-fingerprint
 `black_box` transform and the surrounding app-layer signing, plus a **redacted**
 9 Air mini-program flight-search case study.

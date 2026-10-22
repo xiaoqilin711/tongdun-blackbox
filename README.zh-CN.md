@@ -2,6 +2,8 @@
 
 [English](README.md) | [中文](README.zh-CN.md)
 
+[![CI](https://github.com/xiaoqilin711/tongdun-blackbox/actions/workflows/ci.yml/badge.svg)](https://github.com/xiaoqilin711/tongdun-blackbox/actions/workflows/ci.yml)
+
 纯协议复现同盾（FraudMetrix / 顶象）设备指纹 `black_box` 的转换逻辑，以及配套的应用层签名，并附一个**已脱敏**的九元航空小程序航班搜索案例。
 
 这个仓库的核心价值在**可复用的通用层**：你可以用纯 Python 把一个新鲜的同盾 `tokenId` 转成合法的 `black_box`，不需要跑设备指纹 SDK，也不需要 WMPF/WebView 会话。九元案例只是用来证明这套东西能端到端跑在真实目标上。
